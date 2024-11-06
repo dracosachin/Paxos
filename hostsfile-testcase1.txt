@@ -1,0 +1,5 @@
+peer1:proposer1
+peer2:acceptor1
+peer3:acceptor1
+peer4:acceptor1
+peer5:learner1
